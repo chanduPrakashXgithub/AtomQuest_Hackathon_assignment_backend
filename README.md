@@ -188,7 +188,7 @@ Content-Type: application/json
 
 ## 📝 License
 
-(Add your license here, e.g., MIT, ISC, etc.)
+meeeee
 
 ---
 
